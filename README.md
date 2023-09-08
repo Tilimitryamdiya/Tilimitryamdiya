@@ -1,16 +1,23 @@
-### Hi there 👋
+### Привет!
 
-<!--
-**Tilimitryamdiya/Tilimitryamdiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я **Дарья Герасимова**, Android-разработчик.
 
-Here are some ideas to get you started:
+### Ключевые навыки:
+- Программирование на Kotlin.
+- Интеграция с геосервисами.
+- Работа с мультимедиа.
+- Создание Custom view.
+- Интеграция frontend с серверной частью.
+- Работа с Firebase: Push-уведомления, аналитика.
+- Работа с Git и с GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Сертификаты обучения:
+
+- [Основы Java](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560035/Java.pdf)
+- [GIT - система контроля версий](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560049/GIT.pdf)
+- [Основы Kotlin](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560042/Kotlin.pdf)
+- [Программирование на Kotlin под Android](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560043/Kotlin.Android.pdf)
+- [Промышленная разработка под Android](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560047/Android.pdf)
+- [Продвинутая разработка под Android](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560046/Android.pdf)
+- [Итоговый сертификат](https://github.com/Tilimitryamdiya/Tilimitryamdiya/files/12560039/default.pdf)
